@@ -1,0 +1,42 @@
+[
+  {
+    "username": "John",
+    "password": "$2b$10$PbjV6blXWLsxsS6Lln08WulDcZf1ND4h4xQFK1.3puF.z7Xe2csJy"
+  },
+  {
+    "username": "Janey",
+    "password": "$2b$10$zCSIWz7aedzqa9EpOpA6TO/p5.y1KPdFgnCkNCNu6/9VsSSD8jHte"
+  },
+  {
+    "username": "Jan",
+    "password": "$2b$10$99XBIibVB5xf9FFjO1UTmOovC22jQQ3qeRf4/JXdy9wlk.uYPZzhu"
+  },
+  {
+    "username": "Pontus",
+    "password": "$2b$10$OdkBOsetWbufWJmD3x2DqeVe1QpKfPIXbmPdKrHSyVnUJuHvqPOM."
+  },
+  {
+    "username": "emma",
+    "password": "$2b$10$It5YyVvtoDNpixyoPV3h5uikAQdxG.CL5kPXvtEDX4AYdK.2JCoei"
+  },
+  {
+    "username": "fredrik",
+    "password": "$2b$10$ZqlGnw45OO3LxxwoRdAKB.gSwI33h28owywlaQiYtZBdOwtSrZPZe"
+  },
+  {
+    "username": "fredrik2",
+    "password": "$2b$10$DDSD0sc6c0CUSodvV96kkOJ51B6X8dPDYTCI3bxQRmc/SPguEzyWG"
+  },
+  {
+    "username": "Mart",
+    "password": "$2b$10$xP28fYMxoXnsFkb.aS0VCeG9jL8Za59xxDei22Y9ansmMe8LJUsYq"
+  },
+  {
+    "username": "emma.sofia.dahl@gmail.com",
+    "password": "$2b$10$pwCqxk3A1RKgET5Iuqx.qOSOy644n6SspkO/s1RBqF.vlI4TiOreK"
+  },
+  {
+    "username": "f",
+    "password": "$2b$10$QtpXZmMyeDFBF0K31XmVde8QauCizm4t./6XKIpEnKUeqbMRnO3ue"
+  }
+]
